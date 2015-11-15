@@ -1,0 +1,10 @@
+Ingredients:
+ - eggs
+ - pepper
+ - salt
+
+
+Directions:
+ 1. Scramble
+ 2. Heat
+ 3. Serve
